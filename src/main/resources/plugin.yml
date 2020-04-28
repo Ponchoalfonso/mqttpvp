@@ -1,0 +1,7 @@
+name: MQTTPvP
+version: 1.0
+main: io.github.ponchoalfonso.MQTTPvP
+commands:
+  mqtt:
+    description: "This command tells you that you're using MQTT"
+    usage: "/mqtt"
